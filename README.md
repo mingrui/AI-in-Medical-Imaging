@@ -4,7 +4,7 @@
 https://www.smir.ch/
 
 # Promising
-https://github.com/Kamnitsask/deepmedic
+https://github.com/Kamnitsask/deepmedic\n
 https://github.com/zsdonghao/u-net-brain-tumor
 https://github.com/ellisdg/3DUnetCNN
 
