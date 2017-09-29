@@ -13,6 +13,8 @@ https://github.com/naldeborgh7575/brain_segmentation
 
 process our data:
 
+convert all chinese character file names to english
+
 skull strip
 
 downsize x and y dimensions (brats 2013 x,y is 160,216, brats 2015 is 240, 240, ours is 640,640)
