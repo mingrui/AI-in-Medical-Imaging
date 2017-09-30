@@ -13,15 +13,23 @@ https://github.com/naldeborgh7575/brain_segmentation
 
 process our data:
 
-convert all chinese character file names to english
+--- convert all chinese character file names to english
 
-skull strip
+--- skull strip
 
-downsize x and y dimensions (brats 2013 x,y is 160,216, brats 2015 is 240, 240, ours is 640,640)
+tried this: https://github.com/GUR9000/Deep_MRI_brain_extraction
 
-make more layers, z dimension (brats 2013 had 176 layers, 2015 had 155 layers, ours only 24)
+I don't think this works well with our data, works well with data from here:
 
-then feed all data to the pre-processing pipeline similar to github examples.
+https://www.nitrc.org/frs/?group_id=48
+
+I have uploaded results in the predictions folder
+
+--- downsize x and y dimensions (brats 2013 x,y is 160,216, brats 2015 is 240, 240, ours is 640,640)
+
+--- make more layers, z dimension (brats 2013 had 176 layers, 2015 had 155 layers, ours only 24)
+
+--- then feed all data to the pre-processing pipeline similar to github examples.
 
 # BRATS data
 https://www.smir.ch/
