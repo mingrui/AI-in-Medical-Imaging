@@ -19,9 +19,9 @@ process our data:
 
 tried this: https://github.com/GUR9000/Deep_MRI_brain_extraction
 
-I don't think this works well with our data, works well with data from here:
+I don't think this works well with our data, the t2 result is very dark
 
-https://www.nitrc.org/frs/?group_id=48
+works well with data from here: https://www.nitrc.org/frs/?group_id=48
 
 I have uploaded results in the predictions folder
 
