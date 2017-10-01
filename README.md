@@ -25,16 +25,37 @@ works well with data from here: https://www.nitrc.org/frs/?group_id=48
 
 I have uploaded results in the predictions folder
 
+Oct 1
+
+Tried Nipype with FSL.BET (Brain Extraction Tool), result uploaded to t2_skull_stripped.nii.gz
+
+works well upon initial inspection
+
 --- downsize x and y dimensions (brats 2013 x,y is 160,216, brats 2015 is 240, 240, ours is 640,640)
 
 --- make more layers, z dimension (brats 2013 had 176 layers, 2015 had 155 layers, ours only 24)
 
 --- then feed all data to the pre-processing pipeline similar to github examples.
 
+# MRI basics
+https://www.youtube.com/watch?v=CKbemQBAzUE
+
+# Tutorials
+https://blog.dataversioncontrol.com/best-practices-of-orchestrating-python-and-r-code-in-ml-projects-f28f3a879484
+
+# Neuroscience software
+http://neuro.debian.net/
+
+https://miykael.github.io/nipype-beginner-s-guide/installation.html
+
+https://miykael.github.io/nipype_tutorial/
+
 # BRATS data
 https://www.smir.ch/
 
 # Promising
+https://github.com/nilearn/nilearn
+
 https://github.com/Kamnitsask/deepmedic
 
 https://github.com/zsdonghao/u-net-brain-tumor
