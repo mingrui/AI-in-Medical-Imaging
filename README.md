@@ -1,7 +1,6 @@
 # brain-tumor-segmentation-resources
 
 # Plan
-plan
 1 2D CNN
 每张mri图有24层，每层抓出来拼成一张大图，跑cnn
 
