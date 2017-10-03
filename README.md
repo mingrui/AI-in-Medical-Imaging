@@ -1,5 +1,25 @@
 # brain-tumor-segmentation-resources
 
+# Plan
+plan
+1 2D CNN
+每张mri图有24层，每层抓出来拼成一张大图，跑cnn
+
+2 3D CNN 
+2D CNN 忽略了层与层的关系
+用3D CNN 做，设计3D CNN
+推向科技 横平面 加 纵平面
+
+3 RNN
+CNN 作为 RNN的embedding
+只有一个RNN
+
+Feature rich -> 1 output
+sample size is 200
+easy to overfitting
+
+use brats as pre trained model -> transfer learning
+
 # TODO
 data pre processing, reference:
 
