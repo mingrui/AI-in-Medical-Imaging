@@ -37,6 +37,12 @@ works well upon initial inspection
 
 --- then feed all data to the pre-processing pipeline similar to github examples.
 
+Oct16
+
+Tried: https://github.com/Kamnitsask/deepmedic
+
+pre-processed shanghai data to 256 x 256 jpegs
+
 # MRI basics
 https://www.youtube.com/watch?v=CKbemQBAzUE
 
