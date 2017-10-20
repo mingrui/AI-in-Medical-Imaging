@@ -62,6 +62,10 @@ Tried: https://github.com/Kamnitsask/deepmedic
 
 pre-processed shanghai data to 256 x 256 jpegs
 
+Oct20
+https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
+https://stanford.edu/~shervine/blog/keras-how-to-generate-data-on-the-fly.html
+
 # MRI basics
 https://www.youtube.com/watch?v=CKbemQBAzUE
 
