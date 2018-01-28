@@ -128,3 +128,5 @@ https://github.com/jindongwang/transferlearning
 https://github.com/dformoso/machine-learning-mindmap
 
 https://github.com/mnielsen/neural-networks-and-deep-learning
+
+# Test
