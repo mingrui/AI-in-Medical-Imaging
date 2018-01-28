@@ -20,6 +20,8 @@ https://blog.dataversioncontrol.com/best-practices-of-orchestrating-python-and-r
 
 
 # Neuroscience software
+The best slicer software: https://www.slicer.org/
+
 http://neuro.debian.net/
 
 https://miykael.github.io/nipype-beginner-s-guide/installation.html
