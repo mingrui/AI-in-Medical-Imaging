@@ -72,6 +72,11 @@ Nov 23
 
 https://github.com/jocicmarko/ultrasound-nerve-segmentation
 
+# Frameworks
+http://www.niftynet.io/#features
+
+https://cmiclab.cs.ucl.ac.uk/CMIC/NiftyNet/
+
 # MRI basics
 https://www.youtube.com/watch?v=CKbemQBAzUE
 
