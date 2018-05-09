@@ -1,25 +1,24 @@
-# brain-tumor-segmentation-resources
+# medical-image-segmentation-resources
 
-# Plan
-1. add more preprocessing resources
+# MRI - Brain Tumor
 
-# Frameworks
+## Frameworks
 http://www.niftynet.io/#features
 
 https://cmiclab.cs.ucl.ac.uk/CMIC/NiftyNet/
 
 
-# MRI basics
+## MRI basics
 https://www.youtube.com/watch?v=CKbemQBAzUE
 
 This is a very good class on dicom and nifti preprocessing
 https://www.coursera.org/learn/neurohacking
 
-# Tutorials
+## Tutorials
 https://blog.dataversioncontrol.com/best-practices-of-orchestrating-python-and-r-code-in-ml-projects-f28f3a879484
 
 
-# Neuroscience software
+## Neuroscience software
 The best slicer software: https://www.slicer.org/
 
 http://neuro.debian.net/
@@ -31,15 +30,15 @@ https://miykael.github.io/nipype_tutorial/
 https://github.com/nilearn/nilearn
 
 
-# BRATS data
+## BRATS data
 https://www.smir.ch/
 
 
-# Dicom / Nifti Preprocessing
+## Dicom / Nifti Preprocessing
 https://github.com/mingrui/mri_modality_classification_deep_learning
 
 
-# Segmentation
+## Segmentation
 https://github.com/Kamnitsask/deepmedic
 
 https://github.com/zsdonghao/u-net-brain-tumor
@@ -63,7 +62,7 @@ https://github.com/GUR9000/Deep_MRI_brain_extraction
 https://github.com/cvdlab/nn-segmentation-for-lar
 
 
-# Resources
+## Resources
 https://github.com/desimone/segmentation-models
 
 https://github.com/madlymissyou/deep-learning-for-neuroimage
@@ -75,3 +74,13 @@ https://github.com/dformoso/machine-learning-mindmap
 https://github.com/mnielsen/neural-networks-and-deep-learning
 
 https://github.com/GUR9000/Deep_MRI_brain_extraction
+
+
+# WSI - Brain Tumor
+
+## Similar Problems
+https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/data
+
+https://blog.deepsense.ai/deep-learning-for-satellite-imagery-via-image-segmentation/
+
+https://vooban.com/en/tips-articles-geek-stuff/satellite-image-segmentation-workflow-with-u-net/
