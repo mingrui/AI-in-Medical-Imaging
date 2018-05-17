@@ -14,6 +14,9 @@ https://www.youtube.com/watch?v=CKbemQBAzUE
 This is a very good class on dicom and nifti preprocessing
 https://www.coursera.org/learn/neurohacking
 
+nifti affine:
+http://nipy.org/nibabel/coordinate_systems.html
+
 ## Tutorials
 https://blog.dataversioncontrol.com/best-practices-of-orchestrating-python-and-r-code-in-ml-projects-f28f3a879484
 
