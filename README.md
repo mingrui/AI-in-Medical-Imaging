@@ -92,3 +92,5 @@ https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/data
 https://blog.deepsense.ai/deep-learning-for-satellite-imagery-via-image-segmentation/
 
 https://vooban.com/en/tips-articles-geek-stuff/satellite-image-segmentation-workflow-with-u-net/
+
+https://github.com/alexander-rakhlin/ICIAR2018#method
