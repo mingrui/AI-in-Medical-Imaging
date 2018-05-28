@@ -96,3 +96,5 @@ https://vooban.com/en/tips-articles-geek-stuff/satellite-image-segmentation-work
 https://github.com/alexander-rakhlin/ICIAR2018#method
 
 https://computationalpathologygroup.github.io/ASAP/#home
+
+https://camelyon17.grand-challenge.org/data/
