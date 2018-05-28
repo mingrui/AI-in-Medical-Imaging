@@ -84,7 +84,7 @@ https://github.com/mnielsen/neural-networks-and-deep-learning
 https://github.com/GUR9000/Deep_MRI_brain_extraction
 
 
-# WSI - Brain Tumor
+# WSI - Pathology Image
 
 ## Similar Problems
 https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/data
