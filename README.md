@@ -99,6 +99,8 @@ https://computationalpathologygroup.github.io/ASAP/#home
 
 https://camelyon17.grand-challenge.org/data/
 
+https://github.com/Peter554/StainTools
+
 # Hardware
 
 https://github.com/Microsoft/pai
