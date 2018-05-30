@@ -17,8 +17,16 @@ http://nipy.org/nibabel/coordinate_systems.html
 nifti affine usage: <br>
 https://www.programcreek.com/python/example/98177/nibabel.Nifti1Image
 
-## Tutorials
+sitk image tutorial notebooks: <br>
+https://insightsoftwareconsortium.github.io/SimpleITK-Notebooks/Python_html/03_Image_Details.html
+
 https://blog.dataversioncontrol.com/best-practices-of-orchestrating-python-and-r-code-in-ml-projects-f28f3a879484
+
+a good website to find usage examples: <br>
+https://www.programcreek.com/python/example/96382/SimpleITK.WriteImage
+
+pyradiomics notebook: <br>
+https://www.radiomics.io/pyradiomicsnotebook.html
 
 ## Neuroscience software
 The best slicer software: https://www.slicer.org/ <br>
