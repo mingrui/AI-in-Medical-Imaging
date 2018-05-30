@@ -65,6 +65,9 @@ https://github.com/Radiomics/pyradiomics <br>
 
 # WSI - Pathology Image
 
+## Computational Pathology Basics
+https://www.youtube.com/watch?v=sxkDzbtIJ5g
+
 ## Similar Problems
 https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/data <br>
 https://blog.deepsense.ai/deep-learning-for-satellite-imagery-via-image-segmentation/ <br>
@@ -77,6 +80,7 @@ https://camelyon17.grand-challenge.org/data/ <br>
 
 ## Tools
 https://github.com/Peter554/StainTools <br>
+https://bmi.stonybrookmedicine.edu/node/535 <br>
 
 # Hardware
 
