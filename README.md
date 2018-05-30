@@ -62,6 +62,7 @@ https://github.com/dformoso/machine-learning-mindmap <br>
 https://github.com/mnielsen/neural-networks-and-deep-learning <br>
 https://github.com/GUR9000/Deep_MRI_brain_extraction <br>
 https://github.com/Radiomics/pyradiomics <br>
+https://github.com/nipy/niwidgets <br>
 
 # WSI - Pathology Image
 
