@@ -63,7 +63,11 @@ https://blog.deepsense.ai/deep-learning-for-satellite-imagery-via-image-segmenta
 https://vooban.com/en/tips-articles-geek-stuff/satellite-image-segmentation-workflow-with-u-net/ <br>
 https://github.com/alexander-rakhlin/ICIAR2018#method <br>
 https://computationalpathologygroup.github.io/ASAP/#home <br>
+
+## Data
 https://camelyon17.grand-challenge.org/data/ <br>
+
+## Tools
 https://github.com/Peter554/StainTools <br>
 
 # Hardware
