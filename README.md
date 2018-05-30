@@ -1,5 +1,3 @@
-# medical-image-segmentation-resources
-
 # MRI - Brain Tumor
 
 ## Frameworks
