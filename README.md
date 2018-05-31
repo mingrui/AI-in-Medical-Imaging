@@ -35,8 +35,9 @@ https://miykael.github.io/nipype-beginner-s-guide/installation.html <br>
 https://miykael.github.io/nipype_tutorial/ <br>
 https://github.com/nilearn/nilearn <br>
 
-## BRATS data
-https://www.smir.ch/
+## Data
+https://www.smir.ch/ <br>
+https://wiki.cancerimagingarchive.net/display/DOI/Segmentation+Labels+and+Radiomic+Features+for+the+Pre-operative+Scans+of+the+TCGA-GBM+collection <br>
 
 ## Dicom / Nifti Preprocessing
 https://github.com/mingrui/mri_modality_classification_deep_learning
