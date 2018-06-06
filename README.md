@@ -89,6 +89,9 @@ https://camelyon17.grand-challenge.org/data/ <br>
 https://github.com/Peter554/StainTools <br>
 https://bmi.stonybrookmedicine.edu/node/535 <br>
 
+## Models
+https://github.com/CODAIT/deep-histopath <br>
+
 # Hardware
 
 https://github.com/Microsoft/pai
