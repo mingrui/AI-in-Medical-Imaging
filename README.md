@@ -1,3 +1,8 @@
+# Along with this github project, this page will also be updated
+https://www.notion.so/ideasandexecution/a7aba15ec65948f9a3d0a04da2f2d0d0?v=426eca156f7a4824b0f8f8504f1c4bcd
+
+
+
 # Image Analysis
 
 https://petebankhead.gitbooks.io/imagej-intro/content/ <br>
